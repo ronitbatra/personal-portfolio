@@ -9,6 +9,8 @@
 }
 
 html, body { height: 100%; }
+html { overflow-x: hidden; }
+body { overflow-x: hidden; }
 
 .prose :where(img):not(:where([class~="not-prose"])) { border-radius: 0.75rem; }
 /* Make links in prose turn accent on hover */
