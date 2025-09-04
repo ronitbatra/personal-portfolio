@@ -28,7 +28,7 @@ export const experience = [
     period: 'May 2023 – Present',
     bullets: [
       'Use Pandas/NumPy to streamline processing for 250K data entries, resulting in 40% faster data cleansing.',
-      'Build a PostgreSQL database with 60K entries; write SQL and REST endpoints to analyze ROI and cost efficiencies, improving data retrieval efficiency by 30%.',
+      'Build a PostgreSQL database with 60K entries; write SQL and REST endpoints to analyze ROI and cost efficiencies, improving data retrieval efficiency by 30%',
       'Develop a React web app integrated with Nhost for real‑time spend, product, and vendor analysis; enable users to upload and manage their own datasets seamlessly.'
     ]
   }
