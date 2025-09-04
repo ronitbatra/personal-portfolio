@@ -1,0 +1,21 @@
+{
+  "title": "Notes on minimal design",
+  "description": "Principles I try to follow when building interfaces.",
+  "date": "2025-02-15T00:00:00.000Z",
+  "published": true,
+  "body": {
+    "raw": "\n- Fewer elements, clearer intent.\n- Generous spacing.\n- Consistent rhythm.\n",
+    "code": "var Component=(()=>{var d=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var j=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),p=(e,n)=>{for(var t in n)r(e,t,{get:n[t],enumerable:!0})},l=(e,n,t,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let s of h(n))!f.call(e,s)&&s!==t&&r(e,s,{get:()=>n[s],enumerable:!(o=m(n,s))||o.enumerable});return e};var _=(e,n,t)=>(t=e!=null?d(x(e)):{},l(n||!e||!e.__esModule?r(t,\"default\",{value:e,enumerable:!0}):t,e)),g=e=>l(r({},\"__esModule\",{value:!0}),e);var a=j((M,c)=>{c.exports=_jsx_runtime});var C={};p(C,{default:()=>y,frontmatter:()=>w});var i=_(a()),w={title:\"Notes on minimal design\",description:\"Principles I try to follow when building interfaces.\",date:new Date(17395776e5),published:!0};function u(e){let n=Object.assign({ul:\"ul\",li:\"li\"},e.components);return(0,i.jsxs)(n.ul,{children:[`\n`,(0,i.jsx)(n.li,{children:\"Fewer elements, clearer intent.\"}),`\n`,(0,i.jsx)(n.li,{children:\"Generous spacing.\"}),`\n`,(0,i.jsx)(n.li,{children:\"Consistent rhythm.\"}),`\n`]})}function b(e={}){let{wrapper:n}=e.components||{};return n?(0,i.jsx)(n,Object.assign({},e,{children:(0,i.jsx)(u,e)})):u(e)}var y=b;return g(C);})();\n;return Component;"
+  },
+  "_id": "posts/another-post.mdx",
+  "_raw": {
+    "sourceFilePath": "posts/another-post.mdx",
+    "sourceFileName": "another-post.mdx",
+    "sourceFileDir": "posts",
+    "contentType": "mdx",
+    "flattenedPath": "posts/another-post"
+  },
+  "type": "Post",
+  "slug": "another-post",
+  "url": "/posts/another-post"
+}

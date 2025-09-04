@@ -1,0 +1,8 @@
+:root {
+  --accent: 251 35% 39%;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --accent: 251 35% 45%;
+  }
+}

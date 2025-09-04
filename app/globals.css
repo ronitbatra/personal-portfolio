@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import '../styles/tokens.css';
+
+:root {
+  color-scheme: light dark;
+}
+
+html, body { height: 100%; }
+
+.prose :where(img):not(:where([class~="not-prose"])) { border-radius: 0.75rem; }
+/* Make links in prose turn accent on hover */
+.prose :where(a:hover):not(:where([class~="not-prose"])) { color: hsl(var(--accent)); }

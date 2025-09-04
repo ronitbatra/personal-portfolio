@@ -1,0 +1,21 @@
+{
+  "title": "Hello, world",
+  "description": "Kicking off my new, minimal site.",
+  "date": "2025-01-01T00:00:00.000Z",
+  "published": true,
+  "body": {
+    "raw": "\nWelcome to the new place on the web. It's clean, fast, and focused on writing and work.\n",
+    "code": "var Component=(()=>{var m=Object.create;var c=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var x=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),h=(t,e)=>{for(var n in e)c(t,n,{get:e[n],enumerable:!0})},s=(t,e,n,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of f(e))!w.call(t,o)&&o!==n&&c(t,o,{get:()=>e[o],enumerable:!(r=u(e,o))||r.enumerable});return t};var j=(t,e,n)=>(n=t!=null?m(p(t)):{},s(e||!t||!t.__esModule?c(n,\"default\",{value:t,enumerable:!0}):n,t)),_=t=>s(c({},\"__esModule\",{value:!0}),t);var l=x((y,a)=>{a.exports=_jsx_runtime});var M={};h(M,{default:()=>D,frontmatter:()=>b});var i=j(l()),b={title:\"Hello, world\",description:\"Kicking off my new, minimal site.\",date:new Date(17356896e5),published:!0};function d(t){let e=Object.assign({p:\"p\"},t.components);return(0,i.jsx)(e.p,{children:\"Welcome to the new place on the web. It's clean, fast, and focused on writing and work.\"})}function g(t={}){let{wrapper:e}=t.components||{};return e?(0,i.jsx)(e,Object.assign({},t,{children:(0,i.jsx)(d,t)})):d(t)}var D=g;return _(M);})();\n;return Component;"
+  },
+  "_id": "posts/hello-world.mdx",
+  "_raw": {
+    "sourceFilePath": "posts/hello-world.mdx",
+    "sourceFileName": "hello-world.mdx",
+    "sourceFileDir": "posts",
+    "contentType": "mdx",
+    "flattenedPath": "posts/hello-world"
+  },
+  "type": "Post",
+  "slug": "hello-world",
+  "url": "/posts/hello-world"
+}
