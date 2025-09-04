@@ -11,7 +11,7 @@ export const experience = [
     ]
   },
   {
-    company: 'Tier 1 Startup',
+    company: 'Startup backed by OpenAI',
     role: 'Operations',
     location: 'New York, NY',
     period: '2025 – 2025',
