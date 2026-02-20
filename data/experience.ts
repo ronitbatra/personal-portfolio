@@ -11,17 +11,6 @@ export const experience = [
     ]
   },
   {
-    company: 'Startup backed by OpenAI',
-    role: 'Operations',
-    location: 'New York, NY',
-    period: '2025 – 2025',
-    bullets: [
-      'Drive QA for an AI-powered Excel add-in; lead 8 full regression and feature test cycles, log 50 defects, and ship with 0 critical issues to 1,000+ active users.',
-      'Author the U.S. student go-to-market playbook—persona research, pricing tests, and campus-ambassador program—laying groundwork for rapid adoption at low CAC.',
-      'Launch a social-media growth plan across TikTok, Instagram, and LinkedIn; product launch video earns 8M+ views, dramatically expanding top-of-funnel awareness.'
-    ]
-  },
-  {
     company: 'Edtrax',
     role: 'Founding Engineer',
     location: 'Fairfax, VA',
