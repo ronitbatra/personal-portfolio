@@ -14,7 +14,7 @@ export const experience = [
     company: 'Edtrax',
     role: 'Founding Engineer',
     location: 'Fairfax, VA',
-    period: 'May 2023 – Present',
+    period: 'May 2023 – May 2025',
     bullets: [
       'Use Pandas/NumPy to streamline processing for 250K data entries, resulting in 40% faster data cleansing.',
       'Build a PostgreSQL database with 60K entries; write SQL and REST endpoints to analyze ROI and cost efficiencies, improving data retrieval efficiency by 30%',
